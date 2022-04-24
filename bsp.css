@@ -1,0 +1,77 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-weight: 300;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.filler {
+    padding: 5rem;
+    border: ;
+}
+
+.filler-thin {
+    padding: 2rem;
+}
+
+.img-size-md {
+    height: 50rem;
+    width: auto;
+}
+
+.masterhead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('wallpapper.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.masterhead-2 {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('wallpapper.png');
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+.border-basic {
+    border: 1px solid lightgrey;
+}
+
+.fa-facebook,
+.fa-instagram,
+.fa-youtube {
+    color: black;
+    font-size: 5rem;
+}
+
+.fa-facebook:hover  {
+    color: lightgrey;
+    font-size: 5rem;
+}
+.fa-instagram:hover {
+    color: lightgrey;
+    font-size: 5rem;
+}
+.fa-youtube:hover {
+    color: lightgrey;
+    font-size: 5rem;
+}
+
+
+.img:hover   {
+    background-color: rgba('0, 0, 0, 0.1');
+}
+
